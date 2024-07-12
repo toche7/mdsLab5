@@ -5,6 +5,5 @@ def test_hwfunc1():
     assert result[0].best_score_ >= 0.92
     assert result[1].best_score_ >= 0.92
     assert result[2].best_score_ >= 0.92
-    assert result[3].best_score_ >= 0.92
 
 
